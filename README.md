@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Padmanabha Nikhil Bhimavarapu
 -->
 
-## 👋 About Me
+## 😄 About Me
 
 Computer Engineering graduate from North Carolina State University, passionate about advanced hardware design, digital verification, and building scalable computation platforms. Experienced with complex ASIC/FPGA projects and robust verification environments. Seeking opportunities at the intersection of hardware, digital design, and formal verification.
 
@@ -50,7 +50,7 @@ Full-hardware design (Verilog, Zynq SoC FPGA) with ChaCha20 PRNG, 29.5x SW speed
 SystemVerilog/UVM environment; developed custom interface & coverage model reaching 95% functional coverage.
 
 ### Dynamic Instruction Scheduling Simulator ([Repo Link](https://github.com/Nikhil-7700/ECE563-DynamicInstructionScheduling))  
-C++ project for simulating Tomasulo's algorithm and out-of-order execution for CPU pipelines.
+C++ project for simulating out-of-order superscalar execution for CPU pipelines.
 
 ### Cache & Memory Hierarchy Simulator ([Repo Link](https://github.com/Nikhil-7700/ECE563-CacheDesign_MemoryHierarchyDesign))  
 C++ simulator for multi-level cache systems and memory hierarchies.
@@ -77,8 +77,7 @@ B.Tech., Electronics & Communication Engineering (Aug 2018 – May 2022)
 
 ## 🌐 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/pnb007/)  
-- [Resume](./Resume_Nikhil_NCSU.pdf)
+- [LinkedIn](https://www.linkedin.com/in/pnb007/)
 
 ---
 
