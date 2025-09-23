@@ -27,10 +27,7 @@ Computer Engineering graduate from North Carolina State University, passionate a
 ## 🛠️ Core Skills
 
 - **Hardware Languages:** SystemVerilog, Verilog, VHDL, x86 Assembly  
-- **Software:** Python, C, C++, SQL, Tcl, MATLAB, Shell scripting  
-- **Verification:** UVM methodology, Formal verification, SVA assertions, Coverage-driven methodologies  
-- **Design:** FSM, ASIC/FPGA design, RTL simulation, Static Timing Analysis, DRC/LVS/gate-level verification  
-- **Architectures:** RISC-V, CPU/GPU, Cache & Coherence, Branch Predictor, Out-of-Order execution, Memory Hierarchy  
+- **Software:** Python, C, C++, SQL, Tcl, MATLAB, Shell scripting
 - **Tools:** ModelSim, Synopsys Design Compiler, VCS, HSPICE, Custom Compiler, Cadence Genus/Innovus, Git  
 
 ---
