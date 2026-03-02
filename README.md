@@ -40,9 +40,6 @@ Verilog-based emulator supporting quantum matrix multiplication (up to 16x16), o
 ### CORDIC-based Trigonometric Engine ([Repo Link](https://github.com/Nikhil-7700/CORDIC-based-Trigonometric-Engine))
 Custom FSM-based hardware engine for sine/cosine using IEEE 754 arithmetic, fully implemented in Verilog.
 
-### Discrete Gaussian Sampling – FALCON Digital Signature ([Repo Link](https://github.com/Nikhil-7700/ECE592-DiscreteGaussianSamplingforFALCONDigitalSignature))
-Full-hardware design (Verilog, Zynq SoC FPGA) with ChaCha20 PRNG, 29.5x SW speedup, and optimized pipeline architecture.
-
 ### UVM Verification of LC3 Microcontroller ([Repo Link](https://github.com/Nikhil-7700/ECE748-UVMverification))  
 SystemVerilog/UVM environment; developed custom interface & coverage model reaching 95% functional coverage.
 
