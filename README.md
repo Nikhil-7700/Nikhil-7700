@@ -69,12 +69,6 @@ B.Tech., Electronics & Communication Engineering (Aug 2018 – May 2022)
 
 ---
 
-## 🌐 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/pnb007/)
-
----
-
 ## 🚀 Let’s Collaborate
 
 Open to impactful projects and roles in digital design, hardware verification, and research.  
